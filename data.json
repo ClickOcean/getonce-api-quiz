@@ -1,0 +1,122 @@
+{
+  "quizSteps": [
+    {
+      "name": "form-who-attract"
+    },
+    {
+      "name": "form-quiz-age-range",
+      "type": "button",
+      "required": true,
+      "title": {
+        "en-US": "What age range do you <span class='accent'>prefer?</span>"
+      },
+      "subtitle": {
+        "en-US": "Pick the age range you're into:"
+      },
+      "fieldName": "age_range",
+      "options": [
+        { "value": "18-24", "label": { "en-US": "18-24" } },
+        { "value": "25-34", "label": { "en-US": "25-34" } },
+        { "value": "35-44", "label": { "en-US": "35-44" } },
+        { "value": "45-54", "label": { "en-US": "45-54" } },
+        { "value": "55+", "label": { "en-US": "55+" } }
+      ]
+    },
+    {
+      "name": "form-quiz-here-for",
+      "type": "button",
+      "required": true,
+      "title": {
+        "en-US": "What are you <span class='accent'>here for?</span>"
+      },
+      "subtitle": {
+        "en-US": "Choose what you're open to:"
+      },
+      "fieldName": "here_for",
+      "options": [
+        { "value": "dates", "label": { "en-US": "☕️ Go on Dates" } },
+        { "value": "love", "label": { "en-US": "💘 Find Love" } },
+        { "value": "friends", "label": { "en-US": "👫 Make Friends" } },
+        { "value": "talk", "label": { "en-US": "🙂 Just Talk" } }
+      ]
+    },
+    {
+      "name": "form-quiz-turns-on",
+      "type": "multi",
+      "required": false,
+      "title": {
+        "en-US": "What <span class='accent'>turns you on?</span>"
+      },
+      "subtitle": {
+        "en-US": "Pick as many as you like:"
+      },
+      "submit": {
+        "en-US": "Continue"
+      },
+      "fieldName": "turns_on",
+      "options": [
+        { "value": "kisses", "label": { "en-US": "💋 Kisses" } },
+        { "value": "physical-touch", "label": { "en-US": "🤗 Physical Touch" } },
+        { "value": "date-nights", "label": { "en-US": "👩‍❤️‍👨 Date Nights" } },
+        { "value": "sexting", "label": { "en-US": "💌 Sexting" } },
+        { "value": "playful", "label": { "en-US": "🎭 Playful" } },
+        { "value": "bath-for-two", "label": { "en-US": "🛁 Bath for Two" } },
+        { "value": "breakfast-in-bed", "label": { "en-US": "🥐 Breakfast in Bed" } }
+      ]
+    },
+    {
+      "name": "form-quiz-vibe",
+      "type": "multi",
+      "required": false,
+      "title": {
+        "en-US": "What's your <span class='accent'>sexy</span> vibe?"
+      },
+      "subtitle": {
+        "en-US": "No shame, just vibe:"
+      },
+      "submit": {
+        "en-US": "Continue"
+      },
+      "fieldName": "vibe",
+      "options": [
+        { "value": "single-fabulous", "label": { "en-US": "🤩 Single & Fabulous" } },
+        { "value": "wild", "label": { "en-US": "😈 Wild" } },
+        { "value": "vanilla", "label": { "en-US": "🍦 Vanilla" } },
+        { "value": "open-minded", "label": { "en-US": "😉 Open-minded" } },
+        { "value": "full-of-love", "label": { "en-US": "❤️‍🔥 Full of love" } },
+        { "value": "child-free", "label": { "en-US": "👥 Child Free" } }
+      ]
+    },
+    {
+      "name": "form-quiz-lover-style",
+      "type": "multi",
+      "required": false,
+      "title": {
+        "en-US": "What's your <span class='accent'>lover</span> style?"
+      },
+      "subtitle": {
+        "en-US": "Choose all that fit you:"
+      },
+      "submit": {
+        "en-US": "Continue"
+      },
+      "fieldName": "lover_style",
+      "options": [
+        { "value": "affectionate", "label": { "en-US": "💖 Affectionate" } },
+        { "value": "optimistic", "label": { "en-US": "🌞 Optimistic" } },
+        { "value": "sensitive", "label": { "en-US": "🌺 Sensitive" } },
+        { "value": "outgoing", "label": { "en-US": "🗣️ Outgoing" } },
+        { "value": "spontaneous", "label": { "en-US": "💡 Spontaneous" } },
+        { "value": "dreamer", "label": { "en-US": "🪄 Dreamer" } },
+        { "value": "mindful", "label": { "en-US": "🧘 Mindful" } },
+        { "value": "empathetic", "label": { "en-US": "🤗 Empathetic" } }
+      ]
+    },
+    {
+      "name": "form-name"
+    },
+    {
+      "name": "form-birthday"
+    }
+  ]
+}
