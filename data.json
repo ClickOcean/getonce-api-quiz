@@ -113,10 +113,10 @@
       ]
     },
     {
-      "name": "form-birthday"
+      "name": "form-name"
     },
     {
-      "name": "form-name"
+      "name": "form-birthday"
     }
   ]
 }
