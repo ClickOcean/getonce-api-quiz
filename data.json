@@ -8,18 +8,28 @@
       "type": "button",
       "required": true,
       "title": {
-        "en-US": "What age range do you <span class='accent'>prefer?</span>"
+        "en-US": "What age range do you <span class='accent'>prefer?</span>",
+        "fr-FR": "Quel groupe d'âge <span class='accent'>préfères-tu</span> ?",
+        "es-ES": "¿Qué rango de edad <span class='accent'>prefieres</span>?",
+        "de-DE": "Welche Altersgruppe <span class='accent'>bevorzugst</span> du?",
+        "it-IT": "Quale età <span class='accent'>preferisci</span>?",
+        "pt-PT": "Qual faixa etária você <span class='accent'>prefere</span>?"
       },
       "subtitle": {
-        "en-US": "Pick the age range you're into:"
+        "en-US": "Pick the age range you're into:",
+        "fr-FR": "Choisis le groupe d'âge qui t'intéresse :",
+        "es-ES": "Elige el rango de edad que te interesa:",
+        "de-DE": "Wähle die Altersgruppe, die dich interessiert:",
+        "it-IT": "Scegli l'età che ti interessa:",
+        "pt-PT": "Preferência de faixa etária:"
       },
       "fieldName": "age_range",
       "options": [
-        { "value": "18-24", "label": { "en-US": "18-24" } },
-        { "value": "25-34", "label": { "en-US": "25-34" } },
-        { "value": "35-44", "label": { "en-US": "35-44" } },
-        { "value": "45-54", "label": { "en-US": "45-54" } },
-        { "value": "55+", "label": { "en-US": "55+" } }
+        { "value": "18-24", "label": { "en-US": "18-24", "fr-FR": "18-24", "es-ES": "18-24", "de-DE": "18-24", "it-IT": "18-24", "pt-PT": "18-24" } },
+        { "value": "25-34", "label": { "en-US": "25-34", "fr-FR": "25-34", "es-ES": "25-34", "de-DE": "25-34", "it-IT": "25-34", "pt-PT": "25-34" } },
+        { "value": "35-44", "label": { "en-US": "35-44", "fr-FR": "35-44", "es-ES": "35-44", "de-DE": "35-44", "it-IT": "35-44", "pt-PT": "35-44" } },
+        { "value": "45-54", "label": { "en-US": "45-54", "fr-FR": "45-54", "es-ES": "45-54", "de-DE": "45-54", "it-IT": "45-54", "pt-PT": "45-54" } },
+        { "value": "55+", "label": { "en-US": "55+", "fr-FR": "55+", "es-ES": "55+", "de-DE": "55+", "it-IT": "55+", "pt-PT": "55+" } }
       ]
     },
     {
@@ -27,17 +37,27 @@
       "type": "button",
       "required": true,
       "title": {
-        "en-US": "What are you <span class='accent'>here for?</span>"
+        "en-US": "What are you <span class='accent'>here for?</span>",
+        "fr-FR": "Que <span class='accent'>cherches-tu</span> ici ?",
+        "es-ES": "¿Para qué <span class='accent'>estás aquí</span>?",
+        "de-DE": "Wofür bist du <span class='accent'>hier</span>?",
+        "it-IT": "Per cosa sei <span class='accent'>qui</span>?",
+        "pt-PT": "O que você <span class='accent'>procura aqui</span>?"
       },
       "subtitle": {
-        "en-US": "Choose what you're open to:"
+        "en-US": "Choose what you're open to:",
+        "fr-FR": "Choisis ce à quoi tu es ouvert :",
+        "es-ES": "Elige qué te interesa:",
+        "de-DE": "Wähle, wofür du offen bist:",
+        "it-IT": "Scegli ti interesserebbe:",
+        "pt-PT": "Escolha o que você topa:"
       },
       "fieldName": "here_for",
       "options": [
-        { "value": "dates", "label": { "en-US": "☕️ Go on Dates" } },
-        { "value": "love", "label": { "en-US": "💘 Find Love" } },
-        { "value": "friends", "label": { "en-US": "👫 Make Friends" } },
-        { "value": "talk", "label": { "en-US": "🙂 Just Talk" } }
+        { "value": "dates", "label": { "en-US": "☕️ Go on Dates", "fr-FR": "☕️ Trouver des Dates", "es-ES": "☕️ Salir en citas", "de-DE": "☕️ Geh auf Dates", "it-IT": "☕️ Incontrarsi", "pt-PT": "☕️ Sair para Encontros" } },
+        { "value": "love", "label": { "en-US": "💘 Find Love", "fr-FR": "💘 Trouver l'amour", "es-ES": "💘 Encontrar el amor", "de-DE": "💘 Liebe finden", "it-IT": "💘 Trovare l'amore", "pt-PT": "💘 Encontrar o amor" } },
+        { "value": "friends", "label": { "en-US": "👫 Make Friends", "fr-FR": "👫 Se faire des amis", "es-ES": "👫 Hacer amigos", "de-DE": "👫 Freunde finden", "it-IT": "👫 Fare amicizia", "pt-PT": "👫 Fazer amigos" } },
+        { "value": "talk", "label": { "en-US": "🙂 Just Talk", "fr-FR": "🙂 Juste parler", "es-ES": "🙂 Solo hablar", "de-DE": "🙂 Einfach reden", "it-IT": "🙂 Parlare", "pt-PT": "🙂 Só Conversar" } }
       ]
     },
     {
@@ -45,23 +65,38 @@
       "type": "multi",
       "required": false,
       "title": {
-        "en-US": "What <span class='accent'>turns you on?</span>"
+        "en-US": "What <span class='accent'>turns you on?</span>",
+        "fr-FR": "Qu'est-ce qui <span class='accent'>t'excite</span> ?",
+        "es-ES": "¿Qué <span class='accent'>te excita</span>?",
+        "de-DE": "Was <span class='accent'>macht dich an</span>?",
+        "it-IT": "Cosa ti <span class='accent'>eccita</span>?",
+        "pt-PT": "O que <span class='accent'>te atrai</span>?"
       },
       "subtitle": {
-        "en-US": "Pick as many as you like:"
+        "en-US": "Pick as many as you like:",
+        "fr-FR": "Choisis tout ce que tu veux :",
+        "es-ES": "Elige tantas opciones como quieras:",
+        "de-DE": "Wähle so viele du magst:",
+        "it-IT": "Scegli quanti ne vuoi:",
+        "pt-PT": "Escolha quantos quiser:"
       },
       "submit": {
-        "en-US": "Continue"
+        "en-US": "Continue",
+        "fr-FR": "Continuer",
+        "es-ES": "Continuar",
+        "de-DE": "Weiter",
+        "it-IT": "Continua",
+        "pt-PT": "Continuar"
       },
       "fieldName": "turns_on",
       "options": [
-        { "value": "kisses", "label": { "en-US": "💋 Kisses" } },
-        { "value": "physical-touch", "label": { "en-US": "🤗 Physical Touch" } },
-        { "value": "date-nights", "label": { "en-US": "👩‍❤️‍👨 Date Nights" } },
-        { "value": "sexting", "label": { "en-US": "💌 Sexting" } },
-        { "value": "playful", "label": { "en-US": "🎭 Playful" } },
-        { "value": "bath-for-two", "label": { "en-US": "🛁 Bath for Two" } },
-        { "value": "breakfast-in-bed", "label": { "en-US": "🥐 Breakfast in Bed" } }
+        { "value": "kisses", "label": { "en-US": "💋 Kisses", "fr-FR": "💋 Baisers", "es-ES": "💋 Besos", "de-DE": "💋 Küsse", "it-IT": "💋 Baci", "pt-PT": "💋 Beijos" } },
+        { "value": "physical-touch", "label": { "en-US": "🤗 Physical Touch", "fr-FR": "🤗 Contact physique", "es-ES": "🤗 Contacto físico", "de-DE": "🤗 Körperkontakt", "it-IT": "🤗 Contatto fisico", "pt-PT": "🤗 Toque físico" } },
+        { "value": "date-nights", "label": { "en-US": "👩‍❤️‍👨 Date Nights", "fr-FR": "👩‍❤️‍👨 Soirées en duo", "es-ES": "👩‍❤️‍👨 Citas nocturnas", "de-DE": "👩‍❤️‍👨 Date-Abende", "it-IT": "👩‍❤️‍👨 Serate romantiche", "pt-PT": "👩‍❤️‍👨 Noites a dois" } },
+        { "value": "sexting", "label": { "en-US": "💌 Sexting", "fr-FR": "💌 Messages Coquins", "es-ES": "💌 Sexting", "de-DE": "💌 Sexting", "it-IT": "💌 Sexting", "pt-PT": "💌 Sexting" } },
+        { "value": "playful", "label": { "en-US": "🎭 Playful", "fr-FR": "🎭 Espiègle", "es-ES": "🎭 Juguetón", "de-DE": "🎭 Verspielt", "it-IT": "🎭 Giocoso", "pt-PT": "🎭 Brincalhão" } },
+        { "value": "bath-for-two", "label": { "en-US": "🛁 Bath for Two", "fr-FR": "🛁 Bain à deux", "es-ES": "🛁 Baño para dos", "de-DE": "🛁 Bad zu zweit", "it-IT": "🛁 Bagno in due", "pt-PT": "🛁 Banho a dois" } },
+        { "value": "breakfast-in-bed", "label": { "en-US": "🥐 Breakfast in Bed", "fr-FR": "🥐 Petit-déjeuner au lit", "es-ES": "🥐 Desayuno en la cama", "de-DE": "🥐 Frühstück im Bett", "it-IT": "🥐 Colazione a letto", "pt-PT": "🥐 Café da manhã na cama" } }
       ]
     },
     {
@@ -69,22 +104,37 @@
       "type": "multi",
       "required": false,
       "title": {
-        "en-US": "What's your <span class='accent'>sexy</span> vibe?"
+        "en-US": "What's your <span class='accent'>sexy</span> vibe?",
+        "fr-FR": "Quelle est ta vibe <span class='accent'>sexy</span> ?",
+        "es-ES": "¿Cuál es tu vibra más <span class='accent'>sexy</span>?",
+        "de-DE": "Was ist dein <span class='accent'>sexy</span> Vibe?",
+        "it-IT": "Il tuo lato <span class='accent'>sexy</span>?",
+        "pt-PT": "Qual é sua vibe <span class='accent'>sexy</span>?"
       },
       "subtitle": {
-        "en-US": "No shame, just vibe:"
+        "en-US": "No shame, just vibe:",
+        "fr-FR": "Pas jugement, rien que des vibes :",
+        "es-ES": "Sin vergüenza, solo elige tu vibra:",
+        "de-DE": "Keine Scham, einfach vibe:",
+        "it-IT": "Nessuna vergogna:",
+        "pt-PT": "Sem vergonha, só vibe:"
       },
       "submit": {
-        "en-US": "Continue"
+        "en-US": "Continue",
+        "fr-FR": "Continuer",
+        "es-ES": "Continuar",
+        "de-DE": "Weiter",
+        "it-IT": "Continua",
+        "pt-PT": "Continuar"
       },
       "fieldName": "vibe",
       "options": [
-        { "value": "single-fabulous", "label": { "en-US": "🤩 Single & Fabulous" } },
-        { "value": "wild", "label": { "en-US": "😈 Wild" } },
-        { "value": "vanilla", "label": { "en-US": "🍦 Vanilla" } },
-        { "value": "open-minded", "label": { "en-US": "😉 Open-minded" } },
-        { "value": "full-of-love", "label": { "en-US": "❤️‍🔥 Full of love" } },
-        { "value": "child-free", "label": { "en-US": "👥 Child Free" } }
+        { "value": "single-fabulous", "label": { "en-US": "🤩 Single & Fabulous", "fr-FR": "🤩 Célibataire & Fabuleux", "es-ES": "🤩 Soltero/a & Fabuloso/a", "de-DE": "🤩 Single & Fabelhaft", "it-IT": "🤩 Single & Favoloso", "pt-PT": "🤩 Solteiro/a & Fabuloso/a" } },
+        { "value": "wild", "label": { "en-US": "😈 Wild", "fr-FR": "😈 Sauvage", "es-ES": "😈 Salvaje", "de-DE": "😈 Wild", "it-IT": "😈 Selvaggio", "pt-PT": "😈 Selvagem" } },
+        { "value": "vanilla", "label": { "en-US": "🍦 Vanilla", "fr-FR": "🍦 Classique", "es-ES": "🍦 Clásico", "de-DE": "🍦 Vanilla", "it-IT": "🍦 Classico", "pt-PT": "🍦 Clássico" } },
+        { "value": "open-minded", "label": { "en-US": "😉 Open-minded", "fr-FR": "😉 Ouvert d'esprit", "es-ES": "😉 Mente abierta", "de-DE": "😉 Aufgeschlossen", "it-IT": "😉 Aperto di mente", "pt-PT": "😉 Mente aberta" } },
+        { "value": "full-of-love", "label": { "en-US": "❤️‍🔥 Full of love", "fr-FR": "❤️‍🔥 Plein d'amour", "es-ES": "❤️‍🔥 Lleno de amor", "de-DE": "❤️‍🔥 Voller Liebe", "it-IT": "❤️‍🔥 Pieno d'amore", "pt-PT": "❤️‍🔥 Cheio de amor" } },
+        { "value": "child-free", "label": { "en-US": "👥 Child Free", "fr-FR": "👥 Sans enfants", "es-ES": "👥 Sin hijos", "de-DE": "👥 Kinderfrei", "it-IT": "👥 Senza figli", "pt-PT": "👥 Sem filhos" } }
       ]
     },
     {
@@ -92,24 +142,39 @@
       "type": "multi",
       "required": false,
       "title": {
-        "en-US": "What's your <span class='accent'>lover</span> style?"
+        "en-US": "What's your <span class='accent'>lover</span> style?",
+        "fr-FR": "Quel est ton style <span class='accent'>d'amour</span> ?",
+        "es-ES": "¿Cómo eres como <span class='accent'>amante</span>?",
+        "de-DE": "Welchen <span class='accent'>Liebhaber</span>-Stil hast du?",
+        "it-IT": "Il tuo stile da <span class='accent'>amante</span>?",
+        "pt-PT": "Seu estilo de <span class='accent'>amante</span>?"
       },
       "subtitle": {
-        "en-US": "Choose all that fit you:"
+        "en-US": "Choose all that fit you:",
+        "fr-FR": "Choisis tout ce qui te correspond :",
+        "es-ES": "Elige todo lo que encaje contigo:",
+        "de-DE": "Wähle alles, was zu dir passt:",
+        "it-IT": "Cosa ti rappresenta:",
+        "pt-PT": "Escolha o que te agrada:"
       },
       "submit": {
-        "en-US": "Continue"
+        "en-US": "Continue",
+        "fr-FR": "Continuer",
+        "es-ES": "Continuar",
+        "de-DE": "Weiter",
+        "it-IT": "Continua",
+        "pt-PT": "Continuar"
       },
       "fieldName": "lover_style",
       "options": [
-        { "value": "affectionate", "label": { "en-US": "💖 Affectionate" } },
-        { "value": "optimistic", "label": { "en-US": "🌞 Optimistic" } },
-        { "value": "sensitive", "label": { "en-US": "🌺 Sensitive" } },
-        { "value": "outgoing", "label": { "en-US": "🗣️ Outgoing" } },
-        { "value": "spontaneous", "label": { "en-US": "💡 Spontaneous" } },
-        { "value": "dreamer", "label": { "en-US": "🪄 Dreamer" } },
-        { "value": "mindful", "label": { "en-US": "🧘 Mindful" } },
-        { "value": "empathetic", "label": { "en-US": "🤗 Empathetic" } }
+        { "value": "affectionate", "label": { "en-US": "💖 Affectionate", "fr-FR": "💖 Affectueux", "es-ES": "💖 Cariñoso", "de-DE": "💖 Liebevoll", "it-IT": "💖 Affettuoso", "pt-PT": "💖 Carinhoso" } },
+        { "value": "optimistic", "label": { "en-US": "🌞 Optimistic", "fr-FR": "🌞 Optimiste", "es-ES": "🌞 Optimista", "de-DE": "🌞 Optimistisch", "it-IT": "🌞 Ottimista", "pt-PT": "🌞 Otimista" } },
+        { "value": "sensitive", "label": { "en-US": "🌺 Sensitive", "fr-FR": "🌺 Sensible", "es-ES": "🌺 Sensible", "de-DE": "🌺 Sensibel", "it-IT": "🌺 Sensibile", "pt-PT": "🌺 Sensível" } },
+        { "value": "outgoing", "label": { "en-US": "🗣️ Outgoing", "fr-FR": "🗣️ Extraverti", "es-ES": "🗣️ Extrovertido", "de-DE": "🗣️ Kontaktfreudig", "it-IT": "🗣️ Estroverso", "pt-PT": "🗣️ Extrovertido" } },
+        { "value": "spontaneous", "label": { "en-US": "💡 Spontaneous", "fr-FR": "💡 Spontané", "es-ES": "💡 Espontáneo", "de-DE": "💡 Spontan", "it-IT": "💡 Spontaneo", "pt-PT": "💡 Espontâneo" } },
+        { "value": "dreamer", "label": { "en-US": "🪄 Dreamer", "fr-FR": "🪄 Rêveur", "es-ES": "🪄 Soñador", "de-DE": "🪄 Träumer", "it-IT": "🪄 Sognatore", "pt-PT": "🪄 Sonhador" } },
+        { "value": "mindful", "label": { "en-US": "🧘 Mindful", "fr-FR": "🧘 Attentif", "es-ES": "🧘 Consciente", "de-DE": "🧘 Achtsam", "it-IT": "🧘 Consapevole", "pt-PT": "🧘 Consciente" } },
+        { "value": "empathetic", "label": { "en-US": "🤗 Empathetic", "fr-FR": "🤗 Empathique", "es-ES": "🤗 Empático", "de-DE": "🤗 Empathisch", "it-IT": "🤗 Empatico", "pt-PT": "🤗 Empático" } }
       ]
     },
     {
