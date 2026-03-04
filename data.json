@@ -1,6 +1,9 @@
 {
   "quizSteps": [
     {
+      "name": "form-who-attract"
+    },
+    {
       "name": "form-quiz-age-range",
       "type": "button",
       "required": true,
@@ -18,9 +21,6 @@
         { "value": "45-54", "label": { "en-US": "45-54" } },
         { "value": "55+", "label": { "en-US": "55+" } }
       ]
-    },
-    {
-      "name": "form-who-attract"
     },
     {
       "name": "form-quiz-here-for",
