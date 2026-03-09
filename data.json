@@ -172,7 +172,7 @@
         { "value": "sensitive", "label": { "en-US": "🌺 Sensitive", "fr-FR": "🌺 Sensible", "es-ES": "🌺 Sensible", "de-DE": "🌺 Sensibel", "it-IT": "🌺 Sensibile", "pt-PT": "🌺 Sensível" } },
         { "value": "outgoing", "label": { "en-US": "🗣️ Outgoing", "fr-FR": "🗣️ Extraverti", "es-ES": "🗣️ Extrovertido", "de-DE": "🗣️ Kontaktfreudig", "it-IT": "🗣️ Estroverso", "pt-PT": "🗣️ Extrovertido" } },
         { "value": "spontaneous", "label": { "en-US": "💡 Spontaneous", "fr-FR": "💡 Spontané", "es-ES": "💡 Espontáneo", "de-DE": "💡 Spontan", "it-IT": "💡 Spontaneo", "pt-PT": "💡 Espontâneo" } },
-        { "value": "dreamer", "label": { "en-US": "🪄 Dreamer", "fr-FR": "🪄 Rêveur", "es-ES": "🪄 Soñador", "de-DE": "🪄 Träumer", "it-IT": "🪄 Sognatore", "pt-PT": "🪄 Sonhador" } },
+        { "value": "dreamer", "label": { "en-US": "✨ Dreamer", "fr-FR": "✨ Rêveur", "es-ES": "✨ Soñador", "de-DE": "✨ Träumer", "it-IT": "✨ Sognatore", "pt-PT": "✨ Sonhador" } },
         { "value": "mindful", "label": { "en-US": "🧘 Mindful", "fr-FR": "🧘 Attentif", "es-ES": "🧘 Consciente", "de-DE": "🧘 Achtsam", "it-IT": "🧘 Consapevole", "pt-PT": "🧘 Consciente" } },
         { "value": "empathetic", "label": { "en-US": "🤗 Empathetic", "fr-FR": "🤗 Empathique", "es-ES": "🤗 Empático", "de-DE": "🤗 Empathisch", "it-IT": "🤗 Empatico", "pt-PT": "🤗 Empático" } }
       ]
