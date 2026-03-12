@@ -94,7 +94,7 @@
         { "value": "physical-touch", "label": { "en-US": "🤗 Physical Touch", "fr-FR": "🤗 Contact physique", "es-ES": "🤗 Contacto físico", "de-DE": "🤗 Körperkontakt", "it-IT": "🤗 Contatto fisico", "pt-PT": "🤗 Toque físico" } },
         { "value": "date-nights", "label": { "en-US": "👩‍❤️‍👨 Date Nights", "fr-FR": "👩‍❤️‍👨 Soirées en duo", "es-ES": "👩‍❤️‍👨 Citas nocturnas", "de-DE": "👩‍❤️‍👨 Date-Abende", "it-IT": "👩‍❤️‍👨 Serate romantiche", "pt-PT": "👩‍❤️‍👨 Noites a dois" } },
         { "value": "sexting", "label": { "en-US": "💌 Sexting", "fr-FR": "💌 Messages Coquins", "es-ES": "💌 Sexting", "de-DE": "💌 Sexting", "it-IT": "💌 Sexting", "pt-PT": "💌 Sexting" } },
-        { "value": "playful", "label": { "en-US": "🎭 Playful", "fr-FR": "🎭 Espiègle", "es-ES": "🎭 Juguetón", "de-DE": "🎭 Verspielt", "it-IT": "🎭 Giocoso", "pt-PT": "🎭 Brincalhão" } },
+        { "value": "role-playing", "label": { "en-US": "🎭 Playful", "fr-FR": "🎭 Espiègle", "es-ES": "🎭 Juguetón", "de-DE": "🎭 Verspielt", "it-IT": "🎭 Giocoso", "pt-PT": "🎭 Brincalhão" } },
         { "value": "bath-for-two", "label": { "en-US": "🛁 Bath for Two", "fr-FR": "🛁 Bain à deux", "es-ES": "🛁 Baño para dos", "de-DE": "🛁 Bad zu zweit", "it-IT": "🛁 Bagno in due", "pt-PT": "🛁 Banho a dois" } },
         { "value": "breakfast-in-bed", "label": { "en-US": "🥐 Breakfast in Bed", "fr-FR": "🥐 Petit-déjeuner au lit", "es-ES": "🥐 Desayuno en la cama", "de-DE": "🥐 Frühstück im Bett", "it-IT": "🥐 Colazione a letto", "pt-PT": "🥐 Café da manhã na cama" } }
       ]
@@ -130,10 +130,10 @@
       "fieldName": "vibe",
       "options": [
         { "value": "single-fabulous", "label": { "en-US": "🤩 Single & Fabulous", "fr-FR": "🤩 Célibataire & Fabuleux", "es-ES": "🤩 Soltero/a & Fabuloso/a", "de-DE": "🤩 Single & Fabelhaft", "it-IT": "🤩 Single & Favoloso", "pt-PT": "🤩 Solteiro/a & Fabuloso/a" } },
-        { "value": "wild", "label": { "en-US": "😈 Wild", "fr-FR": "😈 Sauvage", "es-ES": "😈 Salvaje", "de-DE": "😈 Wild", "it-IT": "😈 Selvaggio", "pt-PT": "😈 Selvagem" } },
+        { "value": "bdsm", "label": { "en-US": "😈 Wild", "fr-FR": "😈 Sauvage", "es-ES": "😈 Salvaje", "de-DE": "😈 Wild", "it-IT": "😈 Selvaggio", "pt-PT": "😈 Selvagem" } },
         { "value": "vanilla", "label": { "en-US": "🍦 Vanilla", "fr-FR": "🍦 Classique", "es-ES": "🍦 Clásico", "de-DE": "🍦 Vanilla", "it-IT": "🍦 Classico", "pt-PT": "🍦 Clássico" } },
-        { "value": "open-minded", "label": { "en-US": "😉 Open-minded", "fr-FR": "😉 Ouvert d'esprit", "es-ES": "😉 Mente abierta", "de-DE": "😉 Aufgeschlossen", "it-IT": "😉 Aperto di mente", "pt-PT": "😉 Mente aberta" } },
-        { "value": "full-of-love", "label": { "en-US": "❤️‍🔥 Full of love", "fr-FR": "❤️‍🔥 Plein d'amour", "es-ES": "❤️‍🔥 Lleno de amor", "de-DE": "❤️‍🔥 Voller Liebe", "it-IT": "❤️‍🔥 Pieno d'amore", "pt-PT": "❤️‍🔥 Cheio de amor" } },
+        { "value": "kink-friendly", "label": { "en-US": "😉 Open-minded", "fr-FR": "😉 Ouvert d'esprit", "es-ES": "😉 Mente abierta", "de-DE": "😉 Aufgeschlossen", "it-IT": "😉 Aperto di mente", "pt-PT": "😉 Mente aberta" } },
+        { "value": "into-polyamory", "label": { "en-US": "❤️‍🔥 Full of love", "fr-FR": "❤️‍🔥 Plein d'amour", "es-ES": "❤️‍🔥 Lleno de amor", "de-DE": "❤️‍🔥 Voller Liebe", "it-IT": "❤️‍🔥 Pieno d'amore", "pt-PT": "❤️‍🔥 Cheio de amor" } },
         { "value": "child-free", "label": { "en-US": "👥 Child Free", "fr-FR": "👥 Sans enfants", "es-ES": "👥 Sin hijos", "de-DE": "👥 Kinderfrei", "it-IT": "👥 Senza figli", "pt-PT": "👥 Sem filhos" } }
       ]
     },
