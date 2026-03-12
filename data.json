@@ -88,7 +88,7 @@
         "it-IT": "Continua",
         "pt-PT": "Continuar"
       },
-      "fieldName": "interest",
+      "fieldName": "turns_on",
       "options": [
         { "value": "kisses", "label": { "en-US": "💋 Kisses", "fr-FR": "💋 Baisers", "es-ES": "💋 Besos", "de-DE": "💋 Küsse", "it-IT": "💋 Baci", "pt-PT": "💋 Beijos" } },
         { "value": "physical-touch", "label": { "en-US": "🤗 Physical Touch", "fr-FR": "🤗 Contact physique", "es-ES": "🤗 Contacto físico", "de-DE": "🤗 Körperkontakt", "it-IT": "🤗 Contatto fisico", "pt-PT": "🤗 Toque físico" } },
